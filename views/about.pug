@@ -1,5 +1,8 @@
+
 extends index.pug
 
 
+
 block content
-	p About
+	- let now = new Date();
+	p Today's date is #{now.toISOString()};
