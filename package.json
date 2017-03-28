@@ -1,0 +1,24 @@
+{
+  "name": "06-templating-pug",
+  "version": "1.0.0",
+  "description": "Your file structure should look something like this:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwatson615/06-templating-pug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwatson615/06-templating-pug/issues"
+  },
+  "homepage": "https://github.com/mwatson615/06-templating-pug#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
